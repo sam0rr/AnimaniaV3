@@ -321,7 +321,7 @@ header {
 
 .btn-primary {
     width: fit-content !important;
-    padding: 8px 16px;
+    padding: 7px 7px;
     font-size: 14px;
     border-radius: 15px;
     transition: background-color 0.3s, border-color 0.3s;
